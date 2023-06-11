@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.home-main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.main-heading-container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.main-heading {
+  font-size: 60px;
+}
+.shop-btn {
+  width: 100px;
+  padding: 10px;
+  background-color: blue;
+  border-width: 0px;
+  border-radius: 5px;
+  color: white;
+}
+.home-para {
+  font-size: 20px;
+  color: #475569;
+}
+.image-container {
+  margin-top: 0px;
+  padding: 50px;
+  padding-top: 0px;
+}
+.main-image {
+  height: 500px;
+}
